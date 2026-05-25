@@ -58,7 +58,6 @@ I care more about understanding how something works than just using it.
 <br>
 
 <div align=center>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=demovire&theme=onedark)](https://github.com/demovire/github-profile-trophy)
+    <img width=390 src="https://github-profile-repo.vercel.app/?username=demovire&theme=dracula" alt="demovire's Trophies" />
 </div>
-
 <hr>
