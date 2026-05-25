@@ -49,7 +49,7 @@ I care more about understanding how something works than just using it.
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=demovire&theme=transparent&count_private=true&border_radius=10&locale=en" alt="demovire's" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=demovire&theme=transparent&count_private=true&border_radius=10&locale=en" alt="demovire's" />
 </div>
 
 <hr>
