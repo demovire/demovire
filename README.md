@@ -58,6 +58,6 @@ I care more about understanding how something works than just using it.
 <br>
 
 <div align=center>
-    <img width=390 src="https://github-profile-repo.vercel.app/?username=demovire&theme=dracula" alt="demovire's Trophies" />
+    <img src="https://github-profile-repo.vercel.app/?username=demovire&theme=dracula" alt="demovire's Trophies" />
 </div>
 <hr>
