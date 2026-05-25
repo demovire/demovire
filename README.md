@@ -37,7 +37,7 @@ Subnetting, IPv4 addressing, OSI model basics (CCNA 1 level)
 I care more about understanding how something works than just using it.
 
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <br>
 
@@ -50,7 +50,7 @@ I care more about understanding how something works than just using it.
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=demovire&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="demovire's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=demovire&theme=transparent&count_private=true&border_radius=10&locale=en" alt="demovire's" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?username=demovire&theme=transparent&count_private=true&border_radius=10&locale=en" alt="demovire's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=demovire&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="demovire's Most Used Languages" />
 </div>
 
