@@ -1,8 +1,3 @@
-<div align="center"> 
-  <p>Visitor Count</p>
-  <img src="https://profile-counter.glitch.me/demovire/count.svg" alt="Visitor Count" />
-</div>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=hey+i'm+demovire;" />
 </h1>
@@ -14,16 +9,6 @@ I build things, break things, and try to understand how they actually work.
 
 ### What I Work With
 HTML, CSS, JavaScript, Python, SQL, Lua
-
----
-
-## 🛠️ Languages and Tools
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,lua,git,vscode" />
-</p>
 
 ---
 
@@ -50,3 +35,23 @@ Subnetting, IPv4 addressing, OSI model basics (CCNA 1 level)
 
 ### Mindset
 I care more about understanding how something works than just using it.
+
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,lua,git,vscode" />
+</p>
+
+## Stats
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=demovire&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="demovire's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=demovire&theme=transparent&count_private=true&border_radius=10&locale=en" alt="demovire's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=demovire&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="demovire's Most Used Languages" />
+</div>
+
+<hr>
