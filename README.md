@@ -53,3 +53,12 @@ I care more about understanding how something works than just using it.
 </div>
 
 <hr>
+
+## Trophies
+<br>
+
+<div align=center>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=demovire&theme=onedark)](https://github.com/demovire/github-profile-trophy)
+</div>
+
+<hr>
