@@ -42,7 +42,7 @@ I care more about understanding how something works than just using it.
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,lua,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,lua,sql,git,vscode" />
 </p>
 
 ## Stats
