@@ -22,7 +22,7 @@ HTML, CSS, JavaScript, Python, SQL, Lua
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,lua,git,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,lua,git,vscode" />
 </p>
 
 ---
