@@ -6,7 +6,7 @@
 
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,lua,linux,git,vscode,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,lua,cpp,linux,git,vscode,aws" />
 </p>
 
 ## Stats
