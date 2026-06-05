@@ -8,6 +8,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,lua,cpp,linux,git,vscode,aws" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/IDA_Pro-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ghidra-red?style=for-the-badge" />
+</p>
 
 ## Stats
 
