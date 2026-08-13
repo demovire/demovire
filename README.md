@@ -1,6 +1,4 @@
 ## Projects
-### [opensocket](https://github.com/demovire/opensocket)
-Run Lua in Roblox from your terminal.
 ### [adaptive-npc-engine](https://github.com/demovire/opensocket)
 AI driven NPC system for Roblox that uses an LLM to generate dialogue, track simple emotions, and keep short-term memory across conversations. The goal was to make NPCs feel less static and more reactive over time.
 
