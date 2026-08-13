@@ -2,7 +2,9 @@
 network engineering student
 
 ## Projects
-### [adaptive-npc-engine](https://github.com/demovire/opensocket)
+### [duodub](https://github.com/demovire/duodub)
+Co-op dubbing for The Choicer Voicer — two players split the cast and each end up with the finished dub. Networked mod, or fully offline.
+### [adaptive-npc-engine](https://github.com/demovire/adaptive-npc-engine)
 AI driven NPC system for Roblox that uses an LLM to generate dialogue, track simple emotions, and keep short-term memory across conversations. The goal was to make NPCs feel less static and more reactive over time.
 
 ## Languages and Tools
