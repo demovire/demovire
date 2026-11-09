@@ -2,7 +2,7 @@
 Software Engineering Student
 
 ## Projects
-### [Thanatophobia]([https://github.com/demovire/adaptive-npc-engine](https://github.com/demovire/Thanatophobia))
+### [Thanatophobia](https://github.com/demovire/Thanatophobia)
 A MelonLoader mod that restores working online multiplayer and voice chat to old versions of Phasmophobia.
 ### [adaptive-npc-engine](https://github.com/demovire/adaptive-npc-engine)
 AI driven NPC system for Roblox that uses an LLM to generate dialogue, track simple emotions, and keep short term memory across conversations.
